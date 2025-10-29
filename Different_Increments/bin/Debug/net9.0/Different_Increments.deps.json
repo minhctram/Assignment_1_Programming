@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Different_Increments/1.0.0": {
+        "runtime": {
+          "Different_Increments.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Different_Increments/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

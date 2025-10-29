@@ -1,0 +1,14 @@
+C:\Users\Minh Tram\RiderProjects\Assignment1\RandomNumber\bin\Debug\net9.0\RandomNumber.exe
+C:\Users\Minh Tram\RiderProjects\Assignment1\RandomNumber\bin\Debug\net9.0\RandomNumber.deps.json
+C:\Users\Minh Tram\RiderProjects\Assignment1\RandomNumber\bin\Debug\net9.0\RandomNumber.runtimeconfig.json
+C:\Users\Minh Tram\RiderProjects\Assignment1\RandomNumber\bin\Debug\net9.0\RandomNumber.dll
+C:\Users\Minh Tram\RiderProjects\Assignment1\RandomNumber\bin\Debug\net9.0\RandomNumber.pdb
+C:\Users\Minh Tram\RiderProjects\Assignment1\RandomNumber\obj\Debug\net9.0\RandomNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Minh Tram\RiderProjects\Assignment1\RandomNumber\obj\Debug\net9.0\RandomNumber.AssemblyInfoInputs.cache
+C:\Users\Minh Tram\RiderProjects\Assignment1\RandomNumber\obj\Debug\net9.0\RandomNumber.AssemblyInfo.cs
+C:\Users\Minh Tram\RiderProjects\Assignment1\RandomNumber\obj\Debug\net9.0\RandomNumber.csproj.CoreCompileInputs.cache
+C:\Users\Minh Tram\RiderProjects\Assignment1\RandomNumber\obj\Debug\net9.0\RandomNumber.dll
+C:\Users\Minh Tram\RiderProjects\Assignment1\RandomNumber\obj\Debug\net9.0\refint\RandomNumber.dll
+C:\Users\Minh Tram\RiderProjects\Assignment1\RandomNumber\obj\Debug\net9.0\RandomNumber.pdb
+C:\Users\Minh Tram\RiderProjects\Assignment1\RandomNumber\obj\Debug\net9.0\RandomNumber.genruntimeconfig.cache
+C:\Users\Minh Tram\RiderProjects\Assignment1\RandomNumber\obj\Debug\net9.0\ref\RandomNumber.dll

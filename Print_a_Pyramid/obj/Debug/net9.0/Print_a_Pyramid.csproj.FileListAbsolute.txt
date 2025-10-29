@@ -1,0 +1,14 @@
+C:\Users\Minh Tram\RiderProjects\Assignment1\Print_a_Pyramid\bin\Debug\net9.0\Print_a_Pyramid.exe
+C:\Users\Minh Tram\RiderProjects\Assignment1\Print_a_Pyramid\bin\Debug\net9.0\Print_a_Pyramid.deps.json
+C:\Users\Minh Tram\RiderProjects\Assignment1\Print_a_Pyramid\bin\Debug\net9.0\Print_a_Pyramid.runtimeconfig.json
+C:\Users\Minh Tram\RiderProjects\Assignment1\Print_a_Pyramid\bin\Debug\net9.0\Print_a_Pyramid.dll
+C:\Users\Minh Tram\RiderProjects\Assignment1\Print_a_Pyramid\bin\Debug\net9.0\Print_a_Pyramid.pdb
+C:\Users\Minh Tram\RiderProjects\Assignment1\Print_a_Pyramid\obj\Debug\net9.0\Print_a_Pyramid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Minh Tram\RiderProjects\Assignment1\Print_a_Pyramid\obj\Debug\net9.0\Print_a_Pyramid.AssemblyInfoInputs.cache
+C:\Users\Minh Tram\RiderProjects\Assignment1\Print_a_Pyramid\obj\Debug\net9.0\Print_a_Pyramid.AssemblyInfo.cs
+C:\Users\Minh Tram\RiderProjects\Assignment1\Print_a_Pyramid\obj\Debug\net9.0\Print_a_Pyramid.csproj.CoreCompileInputs.cache
+C:\Users\Minh Tram\RiderProjects\Assignment1\Print_a_Pyramid\obj\Debug\net9.0\Print_a_Pyramid.dll
+C:\Users\Minh Tram\RiderProjects\Assignment1\Print_a_Pyramid\obj\Debug\net9.0\refint\Print_a_Pyramid.dll
+C:\Users\Minh Tram\RiderProjects\Assignment1\Print_a_Pyramid\obj\Debug\net9.0\Print_a_Pyramid.pdb
+C:\Users\Minh Tram\RiderProjects\Assignment1\Print_a_Pyramid\obj\Debug\net9.0\Print_a_Pyramid.genruntimeconfig.cache
+C:\Users\Minh Tram\RiderProjects\Assignment1\Print_a_Pyramid\obj\Debug\net9.0\ref\Print_a_Pyramid.dll

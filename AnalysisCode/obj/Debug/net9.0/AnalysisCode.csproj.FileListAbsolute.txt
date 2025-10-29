@@ -1,0 +1,14 @@
+C:\Users\Minh Tram\RiderProjects\Assignment1\AnalysisCode\obj\Debug\net9.0\AnalysisCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Minh Tram\RiderProjects\Assignment1\AnalysisCode\obj\Debug\net9.0\AnalysisCode.AssemblyInfoInputs.cache
+C:\Users\Minh Tram\RiderProjects\Assignment1\AnalysisCode\obj\Debug\net9.0\AnalysisCode.AssemblyInfo.cs
+C:\Users\Minh Tram\RiderProjects\Assignment1\AnalysisCode\obj\Debug\net9.0\AnalysisCode.csproj.CoreCompileInputs.cache
+C:\Users\Minh Tram\RiderProjects\Assignment1\AnalysisCode\bin\Debug\net9.0\AnalysisCode.exe
+C:\Users\Minh Tram\RiderProjects\Assignment1\AnalysisCode\bin\Debug\net9.0\AnalysisCode.deps.json
+C:\Users\Minh Tram\RiderProjects\Assignment1\AnalysisCode\bin\Debug\net9.0\AnalysisCode.runtimeconfig.json
+C:\Users\Minh Tram\RiderProjects\Assignment1\AnalysisCode\bin\Debug\net9.0\AnalysisCode.dll
+C:\Users\Minh Tram\RiderProjects\Assignment1\AnalysisCode\bin\Debug\net9.0\AnalysisCode.pdb
+C:\Users\Minh Tram\RiderProjects\Assignment1\AnalysisCode\obj\Debug\net9.0\AnalysisCode.dll
+C:\Users\Minh Tram\RiderProjects\Assignment1\AnalysisCode\obj\Debug\net9.0\refint\AnalysisCode.dll
+C:\Users\Minh Tram\RiderProjects\Assignment1\AnalysisCode\obj\Debug\net9.0\AnalysisCode.pdb
+C:\Users\Minh Tram\RiderProjects\Assignment1\AnalysisCode\obj\Debug\net9.0\AnalysisCode.genruntimeconfig.cache
+C:\Users\Minh Tram\RiderProjects\Assignment1\AnalysisCode\obj\Debug\net9.0\ref\AnalysisCode.dll

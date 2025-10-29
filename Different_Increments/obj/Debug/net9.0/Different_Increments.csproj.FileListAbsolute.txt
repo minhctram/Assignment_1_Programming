@@ -1,0 +1,14 @@
+C:\Users\Minh Tram\RiderProjects\Assignment1\Different_Increments\bin\Debug\net9.0\Different_Increments.exe
+C:\Users\Minh Tram\RiderProjects\Assignment1\Different_Increments\bin\Debug\net9.0\Different_Increments.deps.json
+C:\Users\Minh Tram\RiderProjects\Assignment1\Different_Increments\bin\Debug\net9.0\Different_Increments.runtimeconfig.json
+C:\Users\Minh Tram\RiderProjects\Assignment1\Different_Increments\bin\Debug\net9.0\Different_Increments.dll
+C:\Users\Minh Tram\RiderProjects\Assignment1\Different_Increments\bin\Debug\net9.0\Different_Increments.pdb
+C:\Users\Minh Tram\RiderProjects\Assignment1\Different_Increments\obj\Debug\net9.0\Different_Increments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Minh Tram\RiderProjects\Assignment1\Different_Increments\obj\Debug\net9.0\Different_Increments.AssemblyInfoInputs.cache
+C:\Users\Minh Tram\RiderProjects\Assignment1\Different_Increments\obj\Debug\net9.0\Different_Increments.AssemblyInfo.cs
+C:\Users\Minh Tram\RiderProjects\Assignment1\Different_Increments\obj\Debug\net9.0\Different_Increments.csproj.CoreCompileInputs.cache
+C:\Users\Minh Tram\RiderProjects\Assignment1\Different_Increments\obj\Debug\net9.0\Different_Increments.dll
+C:\Users\Minh Tram\RiderProjects\Assignment1\Different_Increments\obj\Debug\net9.0\refint\Different_Increments.dll
+C:\Users\Minh Tram\RiderProjects\Assignment1\Different_Increments\obj\Debug\net9.0\Different_Increments.pdb
+C:\Users\Minh Tram\RiderProjects\Assignment1\Different_Increments\obj\Debug\net9.0\Different_Increments.genruntimeconfig.cache
+C:\Users\Minh Tram\RiderProjects\Assignment1\Different_Increments\obj\Debug\net9.0\ref\Different_Increments.dll
